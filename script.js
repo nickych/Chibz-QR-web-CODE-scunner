@@ -1,3 +1,4 @@
+//FRONT-END MONSTER @CHIBZ
 const wrapper = document.querySelector(".wrapper"),
 form = document.querySelector("form"),
 fileInp = form.querySelector("input"),
