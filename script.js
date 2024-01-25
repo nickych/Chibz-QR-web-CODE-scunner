@@ -38,3 +38,5 @@ copyBtn.addEventListener("click", () => {
 
 form.addEventListener("click", () => fileInp.click());
 closeBtn.addEventListener("click", () => wrapper.classList.remove("active"));
+
+//Nrxt 
