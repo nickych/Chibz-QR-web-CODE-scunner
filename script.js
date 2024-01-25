@@ -6,6 +6,7 @@ infoText = form.querySelector("p"),
 closeBtn = document.querySelector(".close"),
 copyBtn = document.querySelector(".copy");
 
+
 function fetchRequest(file, formData) {
     infoText.innerText = "Scanning QR Code...";
     fetch("http://api.qrserver.com/v1/read-qr-code/", {
