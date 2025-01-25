@@ -47,6 +47,7 @@ body{
   height: 225px;
   pointer-events: none;
 }
+
 form img{
   display: none;
   max-width: 148px;
