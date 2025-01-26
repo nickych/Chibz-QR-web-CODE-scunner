@@ -23,7 +23,6 @@ function fetchRequest(file, formData) {
     });
 }
 
-
 fileInp.addEventListener("change", async e => {
     let file = e.target.files[0];
     if(!file) return;
